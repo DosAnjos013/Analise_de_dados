@@ -1,0 +1,9 @@
+ID_Plataforma;Nome_Plataforma;Tipo_Dispositivo;Sistema_Operacional;Suporte_4K;Regiao_Principal
+301;SmartTV Samsung;Smart TV;Tizen;Sim;Global
+302;Mobile Android;Smartphone;Android;Nao;Global
+303;Web Browser;Desktop;Windows;Sim;Global
+304;Apple TV;Streaming Device;tvOS;Sim;America do Norte
+305;Console Playstation;Console;Proprietario;Sim;Global
+306;Mobile iOS;Smartphone;iOS;Nao;Global
+307;Web Browser;Desktop;MacOS;Sim;Global
+308;SmartTV LG;Smart TV;webOS;Sim;Global

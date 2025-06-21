@@ -1,0 +1,16 @@
+ID_Assinante;Nome;Sobrenome;Email;Data_Nascimento;Plano_Assinatura;Data_Inicio_Assinatura;Pais;Cidade;Gasto_Mensal_USD;Status_Assinatura
+2001;Ana;Silva;ana.s@email.com;1985-03-10;Premium;2022-01-15;Brasil;Sao Paulo;19.99;Ativo
+2002;Bruno;Costa;bruno.c@email.com;1992-11-22;Basico;2023-05-20;Brasil;Rio de Janeiro;9.99;Ativo
+2003;Carla;Souza;carla.s@email.com;1978-07-01;Standard;2021-08-01;Portugal;Lisboa;14.99;Ativo
+2004;Daniel;Lima;daniel.l@email.com;2000-01-05;Basico;2024-02-10;Brasil;Belo Horizonte;9.99;Ativo
+2005;Elisa;Martins;elisa.m@email.com;1995-09-18;Premium;2023-11-01;EUA;New York;19.99;Ativo
+2006;Felipe;Gomes;felipe.g@email.com;1980-04-30;Standard;2022-06-25;Brasil;Brasilia;14.99;Ativo
+2007;Gabriela;Nunes;gabriela.n@email.com;1998-12-12;Basico;2024-01-01;Argentina;Buenos Aires;9.99;Ativo
+2008;Hugo;Pereira;hugo.p@email.com;1975-02-28;Premium;2021-03-05;Brasil;Curitiba;19.99;Ativo
+2009;Isabela;Ribeiro;isabela.r@email.com;1990-06-07;Standard;2023-09-15;Portugal;Porto;14.99;Inativo
+2010;Joao;Santos;joao.s@email.com;1988-10-10;Basico;2022-04-10;Brasil;Salvador;9.99;Ativo
+2011;Karen;Alves;karen.a@email.com;1993-01-20;Premium;2024-03-01;EUA;Los Angeles;19.99;Ativo
+2012;Luis;Castro;luis.c@email.com;1970-05-15;Basico;2020-07-07;Brasil;Fortaleza;9.99;Ativo
+2013;Mariana;Dias;mariana.d@email.com;1997-08-08;Standard;2023-02-20;Mexico;Cidade do Mexico;14.99;Ativo
+2014;Pedro;Ferreira;pedro.f@email.com;1982-11-25;Premium;2022-10-10;Brasil;Recife;19.99;Ativo
+2015;Rita;Lopes;rita.l@email.com;1996-03-03;Basico;2024-04-05;Brasil;Goiania;9.99;Ativo
