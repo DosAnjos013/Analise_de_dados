@@ -31,7 +31,6 @@ Qual o total gasto mensalmente pelos assinantes por tipo de plano?
 
 #### 4.Criar Novas Colunas: 
 Adicione uma coluna com a idade do assinante.
-Crie uma coluna com o dia da semana da visualização.
 Calcule o percentual de cada filme/série que foi assistido (Minutos Assistidos / Duração Total).
 
 #### 5.Tratar Dados Nulos: 
