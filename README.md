@@ -38,7 +38,6 @@ Substitua os valores nulos na coluna Avaliacao_Usuario por uma média ou valor p
 
 #### 6.Visualizar Dados: 
 Crie gráficos que mostrem a distribuição de assinantes por plano.
-Exiba a evolução do número de visualizações ao longo dos meses.
 Compare o tempo médio de visualização entre diferentes gêneros.
 
 #### Observações:
