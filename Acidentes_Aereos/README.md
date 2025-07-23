@@ -28,11 +28,6 @@ A seguir, apresento uma lista de tarefas criadas por um modelo de linguagem de I
 2. Fatores por tipo de aeronave: Crie um gráfico de barras com os 10 fatores contribuintes mais comuns para aeronaves de tipo HELICÓPTERO.
 3. Fatalidades por fator: Analise os fatores contribuintes associados às ocorrências que tiveram fatalidades.
 
-### Tarefa 4: Limpeza e Enriquecimento de Dados
-1. Conversão de Datas: Converta a coluna de data das ocorrências para o formato datetime do Pandas para facilitar as análises temporais.
-2. Preenchimento de Nulos: A coluna de fatalidades (ocorrencia_fatalidades) pode conter valores nulos. Preencha esses valores com 0 para garantir que a coluna seja numérica e possa ser usada em cálculos.
-3. Criação de Coluna: Crie uma nova coluna chamada Regiao no DataFrame de ocorrências com base no estado (aeronave_uf). 4. Você pode agrupar os estados por região (Norte, Nordeste, Sudeste, Sul, Centro-Oeste).
-
 Observações
 A chave de relacionamento principal entre as bases é codigo_ocorrencia.
 A coluna de data é ocorrencia_dia.
